@@ -13,7 +13,7 @@
 // jika online maka akan memanggil data mp3 wallpaper yang ada di json online kalian
 //  jika offline maka akan mmanggil data mp3 wallpaper yang ada di json folder asset
 // online offline huruf kecil
-"MODE_MP3_ONLINE_OFFLINE" : "online",
+"MODE_MP3_ONLINE_OFFLINE" : "offline",
 
 
 "MODE_BACKUP_ADS" : true,
